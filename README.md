@@ -1,6 +1,6 @@
 # Not Self Mini Game - ExpressVPN Hackathon
 
-This repository contains the "Not Self" minigame project developed for the ExpressVPN Hackathon. The project aims to create an engaging, privacy-focused minigame that integrates with the NotSelf app's Internal Family Systems (IFS) model.
+This repository contains the "Not Self" minigame project developed for the ExpressVPN Hackathon. The project aims to create an engaging, privacy-focused minigame that integrates with the NotSelf app's Internal Family System(IFS) model.
 
 ## Project Overview
 
