@@ -1,7 +1,8 @@
-# Not Self Mini Game - ExpressVPN Hackathon
-
-This repository contains the "Not Self" minigame project developed for the ExpressVPN Hackathon. The project aims to create an engaging, privacy-focused minigame that integrates with the NotSelf app's Internal Family System(IFS) model.
 
 ## Project Overview
 
-NotSelf is a psychological self-reflection app that uses minigames to help users explore their inner parts (Manager, Firefighter, Exile, and Self). This minigame is designed to be modular, ensuring user privacy by architecture.
+EQ-Gate is a "Secure by Design" enhancement that adds an Emotional Readiness layer to traditional age verification.
+
+Instead of just checking a birthdate, it uses a gamified assessment to verify that a young user actually understands how to handle cyberbullying, respect digital identities, and spot online predators before they gain access. 
+
+By measuring maturity alongside identity, EQ-Gate ensures that safety is built into the platform's architecture, protecting users through education without requiring invasive content monitoring or extra data collection.
